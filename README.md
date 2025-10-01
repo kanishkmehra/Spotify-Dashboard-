@@ -83,6 +83,6 @@ To deliver an **interactive visual tool** that:
 ## 📸 Screenshots / Demos  
 
 ![Spotify Dashboard Preview](D:\Desktop\DA project\spotify\image)
-![Spotify Dashboard Preview](images/dashboard_preview.png)
+
  
 

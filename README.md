@@ -81,6 +81,8 @@ To deliver an **interactive visual tool** that:
 ---
 
 ## 📸 Screenshots / Demos  
-apparent-magenta-7pbbjefdtf.edgeone.app
+
+![Spotify Dashboard Preview](D:\Desktop\DA project\spotify\image)
+![Spotify Dashboard Preview](images/dashboard_preview.png)
  
 
